@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 200;
+    font-family:'Times New Roman', Times, serif;
+    background-color: hotpink;
+  }
+  
+  p{         
+    margin-top: 50vh;
+  }
